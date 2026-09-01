@@ -1,9 +1,6 @@
 <div align="center">
 
-![H&B Real Estate AG](banner.svg)
-
-![Immobilien](https://img.shields.io/badge/Immobilien-2b363b?style=for-the-badge)
-![Inhouse-Software](https://img.shields.io/badge/Inhouse--Software-ff9a53?style=for-the-badge)
+<img src="logo.png" alt="H&B Real Estate AG" width="360" />
 
 </div>
 
