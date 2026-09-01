@@ -1,8 +1,9 @@
 <div align="center">
 
-# H&B Real Estate AG
+![H&B Real Estate AG](banner.svg)
 
-**Immobilien mit Substanz.**
+![Immobilien](https://img.shields.io/badge/Immobilien-2b363b?style=for-the-badge)
+![Inhouse-Software](https://img.shields.io/badge/Inhouse--Software-ff9a53?style=for-the-badge)
 
 </div>
 
@@ -11,8 +12,8 @@
 ## Über uns
 
 Die **H&B Real Estate AG** ist ein Schweizer Immobilienunternehmen. Wir sind rund
-um die Immobilie tätig und begleiten unsere Kundinnen und Kunden von der
-Bewirtschaftung über die Vermittlung bis zur Entwicklung von Liegenschaften.
+um die Immobilie tätig – von der Bewirtschaftung über die Vermittlung bis zur
+Entwicklung von Liegenschaften.
 
 ## Über diesen GitHub-Account
 
